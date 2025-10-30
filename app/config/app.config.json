@@ -1,20 +1,20 @@
 {
-"0": {
-"name": "Weiss",
-"bgColor": "bg-gray-200 hover:bg-gray-300",
-"textColor": "text-gray-800",
-"nextGroup": 1
-},
-"1": {
-"name": "Blau",
-"bgColor": "bg-blue-600 hover:bg-blue-700",
-"textColor": "text-white",
-"nextGroup": 2
-},
-"2": {
-"name": "Rot",
-"bgColor": "bg-red-600 hover:bg-red-700",
-"textColor": "text-white",
-"nextGroup": 1
-}
+  "0": {
+    "name": "Weiss",
+    "bgColor": "bg-gray-200 hover:bg-gray-300",
+    "textColor": "text-gray-800",
+    "nextGroup": 1
+  },
+  "1": {
+    "name": "Blau",
+    "bgColor": "bg-blue-600 hover:bg-blue-700",
+    "textColor": "text-white",
+    "nextGroup": 2
+  },
+  "2": {
+    "name": "Grün",
+    "bgColor": "bg-green-600 hover:bg-green-700",
+    "textColor": "text-white",
+    "nextGroup": 1
+  }
 }
